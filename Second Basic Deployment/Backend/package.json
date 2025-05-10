@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  
+  "homepage": "https://github.com/YashChoudhary13/Backend#readme",
+  "bugs": {
+    "url": "https://github.com/YashChoudhary13/Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashChoudhary13/Backend.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
