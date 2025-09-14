@@ -1,1 +1,0 @@
-console.log("Let's start backend development with Node.js!");
